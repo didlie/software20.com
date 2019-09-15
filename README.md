@@ -5,7 +5,7 @@ https://software20.com
 ## This is the official website for the PHP version of Software 2.0
 ## The HTML version is in the docs/ folder
 
-This website implements two template repositories _3p and Secure PHP Application. The template for the combined templates is Secire _3p PHP Application. The readme files for all three of these template repositories is in this repository.
+This website implements two template repositories _3p and Secure PHP Application. The template for the combined templates is Secure _3p PHP Application. The readme files for all three of these template repositories is in this repository.
 
 <hr>
 
